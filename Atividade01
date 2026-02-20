@@ -1,0 +1,21 @@
+Desenvolva uma aplicação utilizando os conceitos de poo
+Que manipule uma grande quantidade de dados estatísticos
+
+Mais ou menos 10 mil linhas
+Dica: gerador de dados aleatórios. Financeiro, social, qq coisa
+
+Estrair a média, moda, mediana, variância e desvio padrão
+Outros
+
+O sistema vai ter um txt como entrada. Se eu for pegar direto da web pode ser outro formato, json etc
+Após o processamento ele deve gerar uma página html com esses dados
+
+Importante ter gráfico[Google Sharts]
+
+Opcional: Fazer a persistência em outra base. Essa base será 3 bases, BANCO DE DADOS, XML E JSON
+
+Dica: Pegar os dados da internet direto da aplicação
+
+Verificar se o arquivo mudou, se não mudou ele não gera o html. Verificar se o arquivo já foi aberto na aplicação
+
+
