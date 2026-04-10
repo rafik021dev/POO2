@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DesignPatterns/Atividade01/Atividade01.iml" filepath="$PROJECT_DIR$/DesignPatterns/Atividade01/Atividade01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPatterns/Atividade02/Atividade02.iml" filepath="$PROJECT_DIR$/DesignPatterns/Atividade02/Atividade02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPatterns/Atividade03/Atividade03.iml" filepath="$PROJECT_DIR$/DesignPatterns/Atividade03/Atividade03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPatterns/DesignPatterns.iml" filepath="$PROJECT_DIR$/DesignPatterns/DesignPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GenericsWildcards/GenericsWildcards.iml" filepath="$PROJECT_DIR$/GenericsWildcards/GenericsWildcards.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/POO2.iml" filepath="$PROJECT_DIR$/.idea/POO2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GenericsWildcards/atv02/atv02.iml" filepath="$PROJECT_DIR$/GenericsWildcards/atv02/atv02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GenericsWildcards/atv03/atv03.iml" filepath="$PROJECT_DIR$/GenericsWildcards/atv03/atv03.iml" />
+    </modules>
+  </component>
+</project>
